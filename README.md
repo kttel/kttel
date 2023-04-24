@@ -23,7 +23,6 @@
 </div>
 
 - Computer science student in Petro Mohyla Black Sea National University (6th semester)
-- Currently looking for a job in Software Engineering
 - Currently improving my actual skills and looking into various python libraries
 
 <div align="center">

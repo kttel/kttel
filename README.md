@@ -22,7 +22,7 @@
 
 </div>
 
-- Computer science student in Petro Mohyla Black Sea National University (7th semester)
+- Computer science student in Petro Mohyla Black Sea National University (8th semester)
 - Currently improving my actual skills and looking into various python libraries
 
 <div align="center">
